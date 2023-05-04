@@ -1,0 +1,6 @@
+void main() {
+	int a; //asdasdlkjkj
+	fun(); // function
+	writef();
+	readf();
+}
